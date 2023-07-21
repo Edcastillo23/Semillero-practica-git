@@ -1,0 +1,7 @@
+Un listado de consejos muy interesantes cuando nos enfrentamos a la programación, basados
+en la experiencia de @codewithvoid:
+
+1. Escribir código es el último paso del proceso.
+2. Para resolver problemas: pizarra mejor que teclado.
+3. Escribir código sin planificar = estrés.
+4. Pareces más inteligente siendo claro, no siendo listo.
